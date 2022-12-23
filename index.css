@@ -1,0 +1,141 @@
+.orange{
+  color: #e46c65;
+}
+
+.yellow{
+  color: #eebe5c;  
+}
+.green{
+
+    color: #6dbc6a;
+
+}
+
+
+.bg-color{
+    background: #54389e;
+}
+
+.text-muted{
+    color: #ceb7fe !important;
+}
+
+.fas{
+    color: #d3bdfd;
+}
+
+.icons i{
+    color: #e8d6fc;
+    margin-right: 25px;
+    cursor: pointer;
+    
+}
+
+.width{
+    height: 100vh;
+}
+
+.margin{
+    margin-top: 320px;
+}
+
+.span{
+    color:#b6babf ;
+}
+
+.bg-color1{
+    color: #ffffff;
+}
+
+.content-width{
+    width: 600px;
+    height: 100vh;
+}
+
+
+form{
+    color: #000;
+}
+
+
+.form-control:focus{
+    box-shadow: none !important;
+}
+
+.btns button{
+    background: #7e56da;
+}
+
+.btns button:hover{
+    background: hsl(258, 64%, 40%);
+
+}
+
+.btns button:active{
+    background:  hsl(258, 63%, 50%) !important;
+}
+
+.marginform{
+    margin-top: 60px !important;
+}
+
+.btns button{
+    border: none !important;
+}
+
+
+.dropdown-toggle{
+    border: 1px solid #ced4da !important;
+}
+
+.form-select{
+    box-shadow: none !important;
+    width:auto !important;
+    display: inline !important;
+}
+
+
+.form-check-input{
+    box-shadow: none !important;
+}
+
+
+.input-group>.form-select{
+    flex: none!important;
+}
+
+.size1{
+    font-size: 20px;
+}
+
+
+.padding{
+    padding: 3.5rem !important;
+}
+
+
+ .size2{
+    font-size: 19px !important;
+}
+
+
+.size3{
+    font-size: 18px !important;
+}
+
+.formheadertext{
+    font-size: 20px;
+}
+
+.fi{
+    font-size: 25px;
+    color: #fff;
+}
+
+.fa-envelope-o{
+    color:#fff ;
+    font-size: 25px;
+}
+ 
+
+
